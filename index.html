@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Cartucho Pirata - Como usar um cartucho piratas nas suas impressões</title>
+	<meta name="author" content="GIOVANNI+DRAFTFCB" />
+	<meta name="keywords" content="cartucho pirata, HP, campanha, desculpas urgentes" />
+	<meta name="description" content="Ele desbravou os sete mares em busca do tesouro perdido, tem um papagaio, usa tapa-olho e sua mão é um gancho. Só não consegue ser original. Acesse também: http://www.cartuchopirata.com.br/?vervideo=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<link rel="image_src" href="images/cartucho_pirata.jpg" />
+	
+	<script type="text/javascript" src="js/swfobject.js"></script>
+	<script type="text/javascript" src="js/swfaddress.js"></script>
+	<script type="text/javascript" src="js/swfforcesize.js"></script>
+	<script type="text/javascript" src="js/swfmacmousewheel2.js"></script>
+	<script type="text/javascript" src="js/jquery-1.4.2.js"></script>
+
+	<style type="text/css">
+		
+		/* hide from ie on mac \*/
+		html {
+			height: 100%;
+			overflow: auto;
+		}
+		
+		#flashcontent {
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			height: 100%;
+			width:  100%;
+		}
+		/* end hide */
+
+		body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			background-color: #C4B5A2;
+		}
+
+	</style>
+</head>
+<body>
+	<div id="flashcontent"></div>
+	<script type="text/javascript">
+
+		function openBrowser(url) {
+			window.open(url, "hpCartuchoPirata");
+		}
+
+		function scrollToProdutos() {
+			$('html, body').animate({scrollTop: 605}, 800);
+		}
+
+		function scrollToTop() {
+			$('html, body').animate({scrollTop: 0}, 800);
+		}
+
+		function scrollToCampanhas() {
+			$('html, body').animate({scrollTop: 585}, 800);
+		}
+
+		function scrollToDesculpas() {
+			$('html, body').animate({scrollTop: 955}, 800);
+		}
+
+	</script>
+	<script type="text/javascript">
+	// <![CDATA[
+		var so = new SWFObject('Preloader.swf', 'indexload', '100%', '100%', '9', '#C4B5A2');
+		so.useExpressInstall('include/expressinstall.swf');
+		so.addParam('menu', 'false');
+		so.addParam('wmode', 'transparent');
+		so.addParam("allowfullscreen","true");
+		so.addParam('scale', 'noscale');
+		so.addParam('salign', 'mt');
+
+		function updateSwfSize(w,h) {
+			var forcesize = new SWFForceSize( so,w,h );
+		}
+
+		function updateBrowserScroll(y) {
+			window.scrollTo(0,y);
+		}
+
+		if( so.write('flashcontent') ) {
+			var forcesize = new SWFForceSize( so, 1024, 1400);
+		}
+	// ]]>
+	</script>
+</body>
+</html>

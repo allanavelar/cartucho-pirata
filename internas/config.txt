@@ -1,0 +1,63 @@
+﻿{
+    "facebook": {
+        "url": "http://www.cartuchopirata.com.br"
+    },
+    "twitter": {
+        "status": "Ele desbravou os 7 mares em busca do tesouro, tem um papagaio e sua mão é um gancho. Só não consegue ser original. http://bit.ly/e2K0Rn"
+    },
+    "orkut": {
+        "titulo": "Cartucho Pirata",
+        "mensagem": "Ele desbravou os sete mares em busca do tesouro perdido, tem um papagaio, usa tapa-olho e sua mão é um gancho. Só não consegue ser original. Acesse também http://www.cartuchopirata.com.br/?vervideo=1",
+        "link": "http://www.cartuchopirata.com.br/?vervideo=1"
+    },
+	"campanha": {
+		"atual": 1,
+        "codes": ["lw6DPSp4ID4","0bPyge-sBqk"],
+        "peel": "-ZdxpssfCzM"
+    },
+    "produtos": {
+        "Ventilador": {
+            "position": 0,
+            "url": "http://produto.mercadolivre.com.br/MLB-155023570-ventilador-usb-para-notebook-haste-ajustavel-frete-gratis-_JM"
+        },
+        "Oculos": {
+            "position": 1,
+            "url": "http://produto.mercadolivre.com.br/MLB-156485677-4-oculos-3d-kit-cores-2-vermelhoazulciano-2-verdemagenta-_JM"
+        },
+        "Personal": {
+            "position": 2,
+            "url": "http://produto.mercadolivre.com.br/MLB-152895731-porta-retrato-com-gravador-de-voz-oferta-_JM"
+        },
+        "Gravador": {
+            "position": 3,
+            "url": "http://produto.mercadolivre.com.br/MLB-154045879-antigo-gravador-geloso-vanguard-541-italy-com-microfone-_JM"
+        },
+        "Desentupeitor": {
+            "position": 4,
+            "url": "http://produto.mercadolivre.com.br/MLB-157750863-sugador-desentupidor-de-cartucho-esvazia-e-desentope-hp-_JM"
+        },
+        "AlbumFotos": {
+            "position": 5,
+            "url": "http://produto.mercadolivre.com.br/MLB-153008213-albun-antigo-com-79-fotos-antigas-_JM"
+        },
+        "Pincas": {
+            "position": 6,
+            "url": "http://produto.mercadolivre.com.br/MLB-155043325-conjunto-pincas-tecnicas-frete-gratis-1500-_JM"
+        },
+        "TelaBranco": {
+            "position": 7,
+            "url": "http://produto.mercadolivre.com.br/MLB-151628614-telas-para-pintura-50x60-r720-a-unid-embalagens-com-10-_JM"
+        },
+        "Mucanas": {
+            "position": 8,
+            "url": "http://produto.mercadolivre.com.br/MLB-155788887-leque-abanador-japones-anos60-santos-int-bele-irmos-okamoto-_JM"
+        }
+    },
+	"peel": {
+		"urlClique":"http://www.hp.com/latam/br/lar/produtos/supplies/antipirataria/index.html",
+		"urlCompre":"http://suprimentos.lojahp.com.br/Cartucho-de-Tinta-HP-21b-Preto-Impressoes-do-Dia-a-Dia-C9351BB-6654.html"
+	},
+	"hp":{
+		"url":"http://www.hp.com.br/"
+	}
+}

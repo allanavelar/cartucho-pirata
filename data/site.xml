@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site width="1024" height="1400" layout="fixed" horizontalCenter="0">
+  <page id="Home" type="Home" urlfriendly="home">
+    <title><![CDATA[Home]]></title>
+	<titleBrowser><![CDATA[bem vindo]]></titleBrowser>
+  </page>
+  <page id="Produtos" type="Produtos" urlfriendly="produtos">
+    <title><![CDATA[Produtos]]></title>
+	<titleBrowser><![CDATA[produtos]]></titleBrowser>
+  </page>
+  <page id="Desculpas" type="Desculpas" urlfriendly="desculpas">
+    <title><![CDATA[Desculpas]]></title>
+	<titleBrowser><![CDATA[desculpas]]></titleBrowser>
+  </page>
+  <page id="Campanha" type="Campanha" urlfriendly="campanha">
+    <title><![CDATA[Campanha]]></title>
+	<titleBrowser><![CDATA[campanha]]></titleBrowser>
+	<page id="VideoCampanha" type="VideoCampanha" urlfriendly="video">
+      <title><![CDATA[Campanha]]></title>
+	  <titleBrowser><![CDATA[video campanha]]></titleBrowser>
+    </page>
+  </page>
+  <base>
+    <movieclip id="bgc" linkage="bgColor" ratio="ratio_out" alignX="center" alignY="center"/>
+    <image id="background" file="internas/background.swf" horizontalCenter="0"/>
+  </base>
+</site>

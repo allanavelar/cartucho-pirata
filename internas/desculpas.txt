@@ -1,0 +1,162 @@
+[
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Hum, acho que é pó de café que voou lá da copa." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Borrado? Olhando daqui não parece não." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Isso é graxa! Acho que o meu mecânico usou como estopa." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Hum, olhando de perto parece um tipo de caspa rosa-choque, né?" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Olha! Tem um cachorro voando lá fora!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Hum, acho que o meu esmalte ainda estava úmido" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Então, é que esse relatório veio do interior. E lá tem muuuita queimada de cana. Suja tudo..." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Ué!? Não gostou desse novo estilo de fonte? É grunge!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "É que eu estava passando ao lado de uma construção, e não é que os caras acharam petróleo!? Espirrou pra tudo quanto é lado!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "É que hoje de manhã céu tava tão escuro, mas tão escuro, que a chuva saiu preta! Dá pra acreditar!? Fiquei todo molhado!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Então, chefe, o motorista do busão era mor frangote, fraco que só ele... daí eu tive que trocar o pneu do busão e acabei me sujando todo... Dá pra acreditar!?" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Puts! Já cansei de falar pro Souza não comer açaí perto da impressora!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Essa poluição tá demais, né chefe!?" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Veja o lado bom: tem relatório que é melhor nem ver, né!?" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Ah! Isso é coisa do Souza." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Ah, essa manchinha de dedo aí? É uma nova tecnologia de comprovação de autenticidade, pra mostrar que fui eu mesmo que fiz. Gostou?" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Puxa, chefe! O senhor não vai acreditar! Eu estava vindo calmamente para o trabalho, trazendo o seu relatório, quando encontrei o Blueman Group! A papelada ficou meio manchada, mas eu to felizão!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Ah esse borrão aí? Shiu, fala baixo. É coisa do Souza... Depois que começou a pintar o cabelo, ele tá um perigo!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Não são manchas. Isso é arte. Com um dia a dia tão frio e desprovido de sentimentos, nós devemos aproveitar cada oportunidade para nos expressar... Ouviu? E que isso sirva de lição para seus próximos relatórios." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Não são manchas. Não está vendo? Isso é arte, ARTE. Com um dia a dia tão frio e desprovido de sentimentos, acho que devemos nos expressar sempre que pudermos. Fica a dica. Pense nisso da próxima vez que for fazer o seu relatoriozinho." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Nossa, chefe! O senhor não imagina! Eu estava vindo calma- mente, trazendo o seu relatório. De repente, fui atropelado por uma passeata de palhaços! Daí ficou essa bagunça que o senhor está vendo! Credo! Nunca tinha visto palhaço bravo!" 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Mancha? Não é uma mancha, é um tipo de gráfico novo, o de pizza tá muito batido." 
+    },
+    {
+        "titulo": "para o seu chefe",
+        "mensagem": "Falhas? Onde, chefinho? Nãããooo, isso é uma medida para economizar tinta, sabe como é, sustentabilidade é tendência." 
+    } ,
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Ah, mãe, devem ser lágrimas. Eu me emociono muito quando penso na senhora." 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Não sei o que aconteceu, mas eu me lembro de ter lavado as mãos direitinho! Eu juro!" 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Então, mãe, isso aí é culpa sua. Só de pensar na comida da senhora eu me babo todo." 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Ai, mãe... já falei pra senhora trocar de óculos, né?" 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Não, mãe, seu cartão não está borrado. A senhora nunca ouviu falar impressionismo!?" 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Ah, mãe! Antes, era a minha letra! Agora, vai implicar com meu cartucho pirata!? " 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "Não é mancha, mãe! Já falei que esse é um cartão estilo camuflado!" 
+    },
+    {
+        "titulo": "para a sua mãe",
+        "mensagem": "É que eu me esqueci da minha alergia a café, né. Aí, foi só tomar um golinho que e eu acabei espirrando bem em cima do cartão da senhora. Acha que pode!?" 
+    } ,
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Tá! Tá! O cartão chegou borrado! Mas e aquele dia que você ficou 3 horas comprando roupa e me deixou esperando com fome na porta da loja!? Hein!? Hein!?" 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Eu tremi quando a impressão ficou pronta. Eu sempre me emociono quando penso em você." 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Como assim borrado, amorzinho!? Nunca ouviu falar em arte abstrata?" 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Chegou borrado que nada! Aposto que você tava com as mãozonas sujas de chocolate!" 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Ah! dever ser o granulado do bombom que eu mandei junto. " 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Calma, gata. Não é mancha... Esse cartão foi feito com papel carbono reciclado!" 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Então, né, é que quando eu fui colocar seu cartão no correio, eu estava pintado de Avatar." 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Não é borrado, gata! Você tá por fora... esse cartão faz parte da edição limitada em protesto ao derramamento de petróleo. Engajamento ambiental... saca?" 
+    },
+    {
+        "titulo": "para a sua namorada",
+        "mensagem": "Não é borrado! Esse cartão é uma série comemorativa em homenagem ao Pollock. Não manja de arte, não? Dá um Google." 
+    } 
+]
