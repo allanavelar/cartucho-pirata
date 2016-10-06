@@ -1,4 +1,4 @@
-# Cartucho Pirata - HEWLETT-PACKARD
+# Cartucho Pirata
 
 [![Flash|AS3](http://allanavelar.com/images/developed-w-flash.jpg)](https://site.allanavelar.com/br/?go=cartuchopirata)
 
@@ -17,10 +17,6 @@
 [![Flash|AS3](https://allanavelar.com/projects/hp-cartuchopirata-3.jpg)](https://site.allanavelar.com/br/?go=cartuchopirata)
 
 [![Flash|AS3](https://allanavelar.com/projects/hp-cartuchopirata-4.jpg)](https://site.allanavelar.com/br/?go=cartuchopirata)
-
-### Original URL:
-
-- http://site.casasbahia.com.br/dia-das-criancas/
 
 ##### Copyright (C) 2016 Allan Avelar
 
